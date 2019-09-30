@@ -1,6 +1,8 @@
 # Tindev
-Aplicação criada na semana Omnistack 8.0
+Aplicação baseada no Tinder mas voltada a desenvolvedores cadastrados no Github e criada na semana Omnistack 8.0
+</br>
 Tecnologias usadas: NodeJS/Backend, React/Web, React-native/Mobile.
+</br>
 Créditos: Rocketseat.
 
 
