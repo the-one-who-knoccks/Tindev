@@ -1,4 +1,8 @@
 # Tindev
+Aplicação criada na semana Omnistack 8.0
+Tecnologias usadas: NodeJS/Backend, React/Web, React-native/Mobile.
+Créditos: Rocketseat.
+
 
 # 01 Aplicação Web.
 <img src="Preview/prev01.png">
