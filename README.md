@@ -2,7 +2,7 @@
 Aplicação baseada no Tinder porém, voltada à desenvolvedores cadastrados no Github. App criada na semana Omnistack 8.0.
 </br>
 # Tecnologias usadas: 
-NodeJS/Backend, React/Web, React-native/Mobile.
+NodeJS/Backend, React/Web, React-native/Mobile e MongoDB/Banco de dados.
 </br>
 Créditos: Rocketseat.
 
