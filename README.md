@@ -6,7 +6,7 @@ NodeJS/Backend, React/Web, React-native/Mobile e MongoDB/Banco de dados.
 </br>
 Créditos: Rocketseat.
 
-
+ 
 # 01 Aplicação Web.
 <img src="Preview/prev01.png">
 </br>
