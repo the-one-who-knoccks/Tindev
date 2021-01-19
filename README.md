@@ -16,7 +16,7 @@ Créditos: Rocketseat.
 </br>
 
 # 03 Aplicação Mobile e Web ambos logadas.
-<img src="Preview/prev03.png">
+<img src="Preview/prev03.png"> 
 </br>  
 
 # 04 Função it's a match funcionando entre as duas plataformas.
